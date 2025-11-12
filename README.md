@@ -13,7 +13,15 @@ Unfortunately, the testing dataset cannot be published due to copyright constrai
 
 ## Citation
 
-Paper pending.
-
 ```
+@article{doi:10.1061/JCCEE5.CPENG-6037,
+    author = {Isaac Joffe and George Felobes and Youssef Elgouhari and Mohammad Talebi Kalaleh and Qipei Mei and Ying Hei Chui },
+    title = {The Framework and Implementation of Using Large Language Models to Answer Questions about Building Codes and Standards},
+    journal = {Journal of Computing in Civil Engineering},
+    volume = {39},
+    number = {4},
+    year = {2025},
+    doi = {10.1061/JCCEE5.CPENG-6037},
+    url = {https://ascelibrary.org/doi/abs/10.1061/JCCEE5.CPENG-6037},
+}
 ```
